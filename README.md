@@ -35,31 +35,31 @@ This project ensures accurate record-keeping, quick bill processing, and easy da
       └── report.pdf (optional)    # Detailed project report**
 
 ## How it Works
-1.Admin adds products with details such as ID, name, quantity, and price.
-2.All the stock uploaded into the stock.txt.
-3.User selects items for billing from the inventory.
-4.System generates bill showing item list, total price, and amount due.
-5.Inventory updates automatically to reflect the sold quantities.
-6.Reports or records can be viewed or exported for management review.
+  1.Admin adds products with details such as ID, name, quantity, and price.
+  2.All the stock uploaded into the stock.txt.
+  3.User selects items for billing from the inventory.
+  4.System generates bill showing item list, total price, and amount due.
+  5.Inventory updates automatically to reflect the sold quantities.
+  6.Reports or records can be viewed or exported for management review.
 
 ## Error Handling and Validation
-    **Input validation is applied for all user inputs:**
-      1.Prevents duplicate product IDs.
-      2.Validates quantity availability before completing a sale.
-      3.Displays descriptive error messages to guide correction.
-      4.File and boundary checks to avoid runtime errors.
+     Input validation is applied for all user inputs:
+     1.Prevents duplicate product IDs.
+     2.Validates quantity availability before completing a sale.
+     3.Displays descriptive error messages to guide correction.
+     4.File and boundary checks to avoid runtime errors.
 
 ## Learning Outcomes
-1.Understanding of file handling and data storage in C++.
-2.Application of object-oriented programming (OOP) concepts.
-3.Implementation of real-world inventory management logic.
-4.Practice in error handling.
+  1.Understanding of file handling and data storage in C++.
+  2.Application of object-oriented programming (OOP) concepts.
+  3.Implementation of real-world inventory management logic.
+  4.Practice in error handling.
 
 ## Future Enhancements
-1.Add GUI Interface using React.
-2.Integrate database (MySQL) for better scalability.
-3.Include user authentication and sales reports (daily/monthly).
-4.Generate PDF or printed bills automatically.
+  1.Add GUI Interface using React.
+  2.Integrate database (MySQL) for better scalability.
+  3.Include user authentication and sales reports (daily/monthly).
+  4.Generate PDF or printed bills automatically.
 
 ### Author
 #### Kishor Gunithi
