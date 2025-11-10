@@ -1,0 +1,7 @@
+100            sugar          30             5              
+101            rice_5kg       350            25             
+102            bread          50             8              
+103            milk_1L        30             20             
+104            noodles        45             18             
+105            shampoo        2              60             
+106            chocolate      2              80             
