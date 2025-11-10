@@ -35,7 +35,7 @@ This project ensures accurate record-keeping, quick bill processing, and easy da
       └── report.pdf (optional)    # Detailed project report**
 
 ## How it Works
-  1.Admin adds products with details such as ID, name, quantity, and price.
+  1.Admin adds products with details such as ID, name, quantity, and price.  
   2.All the stock uploaded into the stock.txt.
   3.User selects items for billing from the inventory.
   4.System generates bill showing item list, total price, and amount due.
